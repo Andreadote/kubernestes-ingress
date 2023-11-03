@@ -169,3 +169,4 @@ spec:
  $ kubectl delete clusterrole nginx-ingress
  $ kubectl delete clusterrolebinding nginx-ingress
  ```
+# kubernestes-ingress
